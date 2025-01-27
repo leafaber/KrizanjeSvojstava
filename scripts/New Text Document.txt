@@ -1,0 +1,10 @@
+|			SVOJSTVO				|			DOMINANTNO			|			RECESIVNO			|	
+-----------------------------------------------------------------------------------------------------------
+|	Boja cvijeta						|				ljubicasta					|				bijela				|
+|	Položaj cvijeta					|				bocni						|				vrsni					|
+|	Boja sjemenke graška	|				zuta							|				zelena				|
+|	Oblik sjemenke graška	|				okrugla					|				naborana			|
+|	Oblik mahune					|				glatka						|				naborana			|
+|	Boja mahune					|				zelena						|				zuta					|
+|	Visina stabiljke					|				visoka						|				niska				|
+-----------------------------------------------------------------------------------------------------------
